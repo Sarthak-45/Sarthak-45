@@ -1,7 +1,8 @@
 ## Hi there 👋
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=80&duration=7000&color=000000&lines=Hi+I'm+Sarthak+Sonawane!;Data+Analyst+|+Data+Scientist+|+Machine+Learning;Gen+AI+|+Turning+Data+into+Meaningful+Outcomes" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=80&duration=7000&color=000000&lines=%E2%80%8BHi+I%27m+Sarthak+Sonawane!;%E2%80%8BData+Analyst+%7C+Data+Scientist+%7C+Machine+Learning;%E2%80%8BGen+AI+%7C+Turning+Data+into+Meaningful+Outcomes" />
 </h1>
+
 
 <!--
 **Sarthak-45/Sarthak-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
