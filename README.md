@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=80&duration=4000&lines=Hi+I'm+Sarthak+Sonawane!;Data+Analyst+|+Data+Scientist+|+Machine+Learning;Gen+AI+|+Turning+Data+into+Meaningful+Outcomes" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=80&duration=4000&color=000000&lines=Hi+I'm+Sarthak+Sonawane!;Data+Analyst+|+Data+Scientist+|+Machine+Learning;Gen+AI+|+Turning+Data+into+Meaningful+Outcomes" />
 </h1>
 
 <!--
