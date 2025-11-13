@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=80&duration=5000&color=000000&lines=%E2%80%8BHi+I'm+Sarthak+Sonawane!;%E2%80%8BData+Analyst+%7C+Data+Scientist;%E2%80%8BMachine+Learning+%7C+Gen+AI;%E2%80%8BTurning+Data+into+Meaningful+Outcomes" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=80&duration=4000&color=000000&lines=%E2%80%8BHi+I'm+Sarthak+Sonawane!;%E2%80%8BData+Analyst+%7C+Data+Scientist;%E2%80%8BMachine+Learning+%7C+Gen+AI;%E2%80%8BTurning+Data+into+Meaningful+Outcomes" />
 </h1>
 
 
@@ -21,7 +21,7 @@
 
 ### 🚀 Highlight Projects
 
-#### 🧠 [Hack_Princeton](https://github.com/Sarthak-45/Hack_Princeton)
+#### 🧠 [Hack_Princeton](https://github.com/Sarthak-45/HackPrincenton-HackPrinceton)
 Built **MealPilot**, an AI Co-Pilot that automates grocery planning by parsing recipe images, verifying pantry inventory, and auto-adding items to carts across Instacart and Uber APIs.  
 **Tech:** 🛠️ Python • Gemini API • Knot API • Streamlit • JSON Automation  
 
