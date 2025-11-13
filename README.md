@@ -28,7 +28,7 @@ Built **MealPilot**, an AI co-pilot that automates grocery planning by parsing r
 ---
 
 #### 🏀 [NBA-GEN-AI-Analysis](https://github.com/Sarthak-45/NBA-GEN-AI-Analysis)
-Developed a **Generative AI NBA Analytics Agent** that summarizes player and team performance, generates forecasts, and builds automated visual reports.  
+Developed a **Generative AI NBA Analytics Agent** that summarizes player and team performance, generates forecasts, and builds automated reports.  
 **Tech:** 🛠️ Python • Pandas • LangChain • Gemini API • Power BI • XGBoost  
 
 ---
@@ -45,9 +45,9 @@ Built a **modular MLOps pipeline** with versioned datasets, automated model vali
 
 ---
 
-#### 🧾 [InsurEase-Analysis](https://github.com/Sarthak-45/InsurEase-Analysis)
-Performed an **insurance data analysis** project focused on customer segmentation and claim prediction using ML techniques.  
-**Tech:** 🛠️ Python • Scikit-Learn • Power BI • Pandas • ETL  
+#### 📊 [Insurance-Analytics-Power-BI-Project](https://github.com/Sarthak-45/Insurance-Analytics-Power-BI-Project)
+Performed an **insurance data analytics project** using Power BI to explore claims, risk profiles, and customer patterns for decision-making insights.  
+**Tech:** 🛠️ Power BI • Python • Pandas • DAX • Data Modeling  
 
 ---
 
