@@ -7,19 +7,12 @@
 
 ### 👨‍💻 A passionate Data & AI professional from Boston, MA  
 
-- 🧠 I’m currently working on **AI Co-pilot projects (MealPilot & HotelIQ)**  
-- 📚 I’m currently learning **LangChain, RAG Pipelines, and AWS MLOps**  
-- 💬 Ask me about **Python, Machine Learning, Gen AI, or Data Analytics**  
-- ⚡ Fun fact: *I turn messy data into meaningful insights!*  
+- 🎓 Graduate Student @ Northeastern University | Data Analytics Engineering
+- 🧩 Exploring the intersection of **Data Science, Machine Learning, and Gen AI**
+- 📚 I’m currently learning **LangChain, RAG Pipelines, and AWS MLOps**
+- 🧠 Love working on **smart dashboards, AI agents, and scalable automation**
 
-<p align="center">
-  <a href="mailto:sarthaksonawane45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarthak-sonawane/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+
 
 
 ---
