@@ -21,38 +21,44 @@
 
 ### 🚀 Highlight Projects
 
-#### 🧠 [Hack_Princeton](https://github.com/Sarthak-45/HackPrincenton-HackPrinceton)
-Built **MealPilot**, an AI Co-Pilot that automates grocery planning by parsing recipe images, verifying pantry inventory, and auto-adding items to carts across Instacart and Uber APIs.  
+#### 🧠 [MealPilot – HackPrinceton](https://github.com/Sarthak-45/MealPilot-HackPrinceton)
+Built **MealPilot**, an AI co-pilot that automates grocery planning by parsing recipe images, verifying pantry inventory, and auto-adding items to carts across Instacart and Uber APIs.  
 **Tech:** 🛠️ Python • Gemini API • Knot API • Streamlit • JSON Automation  
 
 ---
 
-#### 📊 [HR-Analytics](https://github.com/Sarthak-45/HR-Analytics)
-Performed end-to-end **employee attrition analysis** using Power BI to identify KPIs driving turnover and actionable HR insights.  
-**Tech:** 🛠️ Power BI • DAX • Excel • SQL • Data Visualization  
-
----
-
-#### ⚙️ [MLOps](https://github.com/Sarthak-45/MLOps)
-Designed a **modular MLOps pipeline** with data versioning, automated model validation, CI/CD, and drift tracking using Airflow, DVC, and EvidentlyAI.  
-**Tech:** 🛠️ Python • Airflow • DVC • AWS • EvidentlyAI  
-
----
-
 #### 🏀 [NBA-GEN-AI-Analysis](https://github.com/Sarthak-45/NBA-GEN-AI-Analysis)
-Built a **Generative AI NBA Analytics Agent** for player and team stats that generates insights, forecasts, and visual summaries from box score data.  
+Developed a **Generative AI NBA Analytics Agent** that summarizes player and team performance, generates forecasts, and builds automated visual reports.  
 **Tech:** 🛠️ Python • Pandas • LangChain • Gemini API • Power BI • XGBoost  
 
 ---
 
 #### 💬 [TEXT-TO-SQL](https://github.com/Sarthak-45/TEXT-TO-SQL)
-Developed a **Natural Language to SQL** pipeline allowing users to query databases conversationally using LLMs and schema-aware prompt engineering.  
+Created a **natural language–to–SQL translator** that lets users query databases conversationally using LLMs and schema-aware prompt engineering.  
 **Tech:** 🛠️ Python • LangChain • OpenAI • Streamlit • SQLite  
 
 ---
 
+#### ⚙️ [MLOps](https://github.com/Sarthak-45/MLOps)
+Built a **modular MLOps pipeline** with versioned datasets, automated model validation, and CI/CD using Airflow, DVC, and EvidentlyAI.  
+**Tech:** 🛠️ Python • Airflow • DVC • AWS • EvidentlyAI  
+
+---
+
+#### 🧾 [InsurEase-Analysis](https://github.com/Sarthak-45/InsurEase-Analysis)
+Performed an **insurance data analysis** project focused on customer segmentation and claim prediction using ML techniques.  
+**Tech:** 🛠️ Python • Scikit-Learn • Power BI • Pandas • ETL  
+
+---
+
+#### 📊 [HR-Analytics](https://github.com/Sarthak-45/HR-Analytics)
+Designed a **Power BI dashboard** to analyze employee attrition patterns and identify KPI-driven factors behind turnover.  
+**Tech:** 🛠️ Power BI • DAX • Excel • SQL • Data Visualization  
+
+---
+
 #### 📈 [Data-Professional-Survey-Analysis](https://github.com/Sarthak-45/Data-Professional-Survey-Analysis)
-Analyzed a large-scale **data professional survey** to uncover global trends in salaries, job satisfaction, and tool adoption.  
+Analyzed a large-scale **data professional survey** to uncover insights on global trends in salaries, job satisfaction, and tool adoption.  
 **Tech:** 🛠️ Power BI • SQL • Excel • ETL • Data Cleaning  
 
 
