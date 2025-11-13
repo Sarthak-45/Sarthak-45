@@ -15,23 +15,10 @@
 ---
 
 ### 🧠 Tech Stack
-<p align="center">
+<h3>🧠 Tech Stack</h3>
 
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,sql,r,html,css" />
-
-  <!-- Analytics & Visualization -->
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
-  
-  <!-- Machine Learning & AI -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,neo4j" />
-
-  <!-- Cloud & MLOps -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
-
+<p align="center" style="margin: 0;">
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,aws,docker,git,github,vscode,tensorflow,pytorch,opencv,mysql,postgres" style="margin: 0; padding: 0;"/>
 </p>
 
 <!--
