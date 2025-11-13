@@ -15,16 +15,8 @@
 ---
 
 ### 🧠 Tech Stack
-
-<h3>🧠 Tech Stack & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,aws,git,github,kafka,nodejs,mysql,mongodb,pytorch,tensorflow,vscode,docker,streamlit" />
-
-  <!-- Custom Icons for Analytics -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48" height="48" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" height="48" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" height="48" style="margin: 6px;"/>
+<p align="center" style="margin: 0;">
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,aws,docker,git,github,vscode,tensorflow,pytorch,opencv,mysql,postgres,streamlit" style="margin: 0; padding: 0;"/>
 </p>
 
 
