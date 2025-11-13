@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/sarthak-sonawane/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sarthaksonawane.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
 </p>
 
 ---
