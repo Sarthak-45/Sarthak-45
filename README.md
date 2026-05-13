@@ -68,7 +68,6 @@ Performed exploratory analytics on global **data professional salary, satisfacti
 **Tech:** 🛠️ Power BI • SQL • Excel • ETL • Data Cleaning
 
 ### 📈 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-45&theme=github-compact&hide_border=true" />
 </p>
@@ -78,5 +77,5 @@ Performed exploratory analytics on global **data professional salary, satisfacti
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sarthak-45/Sarthak-45/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://ghchart.rshah.org/Sarthak-45" alt="Sarthak's GitHub contribution chart" />
 </p>
