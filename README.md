@@ -67,15 +67,3 @@ Designed an **HR attrition analytics dashboard** identifying KPI-driven employee
 Performed exploratory analytics on global **data professional salary, satisfaction, and tooling trends** using large survey datasets.  
 **Tech:** 🛠️ Power BI • SQL • Excel • ETL • Data Cleaning
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-45&theme=github-compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-45&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Sarthak-45" alt="Sarthak's GitHub contribution chart" />
-</p>
