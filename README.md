@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=80&duration=4000&color=000000&lines=%E2%80%8BHi+I'm+Sarthak+Sonawane!;%E2%80%8BData+Analyst+%7C+Data+Scientist;%E2%80%8BMachine+Learning+%7C+Gen+AI;%E2%80%8BTurning+Data+into+Meaningful+Outcomes" />
 </h1>
 
-
 ---
 
 ### 👨‍💻 A passionate Data & AI professional from Boston, MA  
@@ -20,6 +19,12 @@
 </p>
 
 ### 🚀 Highlight Projects
+
+#### 🏨 [HotelIQ](https://github.com/Sarthak-45/hotel-iq)
+Built an **AI-powered hotel intelligence platform** with multi-agent workflows, RAG-based hotel search, review intelligence, and conversational trip assistance using large-scale hotel and review datasets.  
+**Tech:** 🛠️ Python • LangGraph • FastAPI • PostgreSQL • Pinecone • OpenAI • Docker • GCP  
+
+---
 
 #### 🧠 [MealPilot – HackPrinceton](https://github.com/Sarthak-45/MealPilot-HackPrinceton)
 Built **MealPilot**, an AI co-pilot that automates grocery planning by parsing recipe images, verifying pantry inventory, and auto-adding items to carts across Instacart and Uber APIs.  
@@ -39,12 +44,6 @@ Created a **natural language–to–SQL translator** that lets users query datab
 
 ---
 
-#### ⚙️ [MLOps](https://github.com/Sarthak-45/MLOps)
-Built a **modular MLOps pipeline** with versioned datasets, automated model validation, and CI/CD using Airflow, DVC, and EvidentlyAI.  
-**Tech:** 🛠️ Python • Airflow • DVC • AWS • EvidentlyAI  
-
----
-
 #### 📊 [Insurance-Analytics-Power-BI-Project](https://github.com/Sarthak-45/Insurance-Analytics-Power-BI-Project)
 Performed an **insurance data analytics project** using Power BI to explore claims, risk profiles, and customer patterns for decision-making insights.  
 **Tech:** 🛠️ Power BI • Python • Pandas • DAX • Data Modeling  
@@ -60,19 +59,3 @@ Designed a **Power BI dashboard** to analyze employee attrition patterns and ide
 #### 📈 [Data-Professional-Survey-Analysis](https://github.com/Sarthak-45/Data-Professional-Survey-Analysis)
 Analyzed a large-scale **data professional survey** to uncover insights on global trends in salaries, job satisfaction, and tool adoption.  
 **Tech:** 🛠️ Power BI • SQL • Excel • ETL • Data Cleaning  
-
-
-<!--
-**Sarthak-45/Sarthak-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
